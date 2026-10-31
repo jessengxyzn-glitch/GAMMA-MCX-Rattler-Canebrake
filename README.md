@@ -5,11 +5,15 @@
 
 Adds two MCX Canebrake rifles chambered in .300 Blackout, set around the time the weapon first appeared in 2019. Both are treated as integrally suppressed rifles, and tuned as endgame weapons: the .300 rounds hit on par with 9x39. 
 
-MCX Canebrake “Spectre” is an unique rifle - perfectly tuned and personalized, with a jungle tigerstripe rattle-can camo. It carries a Cloud Defensive REIN Micro light, a Holosun IRIS GR3 sight, a handguard wrap and a handstop, and it’s fitted with the SOCOM300 SPS suppressor. It’s the most reliable of the two, and you only get one. 
-### Universal Tactical Light Framework integration is included. 
-> https://github.com/MichaelHochriegl/Stalker.Anomaly.Universal.Tactical.Light.Framework/releases/tag/v1.0.2
+MCX Canebrake “Spectre” is an unique rifle - perfectly tuned and personalized, with a jungle tigerstripe rattle-can camo. It carries a Cloud Defensive REIN Micro light, a Holosun IRIS GR3 sight, a handguard wrap and a handstop, and it’s fitted with the SOCOM300 SPS suppressor. It’s the most reliable of the two, and you only get one.
+
+INCOMING INTERCEPTED TRANSMISSION. GO INVESTIGAGE. 
+<img width="1440" height="960" alt="Surface Pro 8 - 1 copy" src="https://github.com/user-attachments/assets/ffc74fed-4815-428d-92a4-8a70cf14b2cf" />
 
 MCX Canebrake is the standard version. It has the same caliber and weight and a SIG SRD762 MIL-16 suppressor, but it isn’t tuned to the same level, so it’s less reliable than the Spectre. This one is very rare and appears randomly on stalkers.
+
+### Universal Tactical Light Framework integration is included. 
+> https://github.com/MichaelHochriegl/Stalker.Anomaly.Universal.Tactical.Light.Framework/releases/tag/v1.0.2
 
 ### Requires Pilli's .300 Blackout Framework. 
 > https://drive.google.com/file/d/1-LZkl9or3lgpvF5r3usLRbcrP7PwXOFh/view
